@@ -1,1 +1,1 @@
-# calculator
+I'm wrapping up my web dev fundementals course with creating a caluclator using HTML, CSS, and JS.
